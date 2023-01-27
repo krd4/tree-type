@@ -18,5 +18,8 @@
   "homepage": "https://github.com/krd4/tree-type#readme",
   "dependencies": {
     "immutable": "^4.2.2"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0"
   }
 }
