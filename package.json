@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/krd4/tree-type#readme",
   "dependencies": {
+    "expect.js": "^0.3.1",
     "immutable": "^4.2.2"
   },
   "devDependencies": {
