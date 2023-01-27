@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -21,6 +21,8 @@
     "immutable": "^4.2.2"
   },
   "devDependencies": {
+    "@types/expect.js": "^0.3.29",
+    "@types/mocha": "^10.0.1",
     "mocha": "^10.2.0"
   }
 }
