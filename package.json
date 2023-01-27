@@ -18,10 +18,12 @@
   "homepage": "https://github.com/krd4/tree-type#readme",
   "dependencies": {
     "expect.js": "^0.3.1",
-    "immutable": "^4.2.2"
+    "immutable": "^4.2.2",
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
     "@types/expect.js": "^0.3.29",
+    "@types/lodash": "^4.14.191",
     "@types/mocha": "^10.0.1",
     "mocha": "^10.2.0"
   }
